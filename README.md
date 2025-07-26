@@ -25,3 +25,6 @@ Aplicación web que consume la API pública de Rick and Morty para buscar, filtr
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/rick-and-morty-explorer.git
+
+## Acá puedes ver la página:
+https://carlosxt1299.github.io/rick-and-morty-api/
