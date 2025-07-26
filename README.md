@@ -28,3 +28,6 @@ Aplicación web que consume la API pública de Rick and Morty para buscar, filtr
 
 ## Acá puedes ver la página:
 https://carlosxt1299.github.io/rick-and-morty-api/
+
+## Link de YouTube
+https://youtu.be/YsocrlDFC2c
